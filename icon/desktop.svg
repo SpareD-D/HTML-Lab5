@@ -1,0 +1,8 @@
+<svg width="540" height="420" viewBox="0 0 540 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M539.25 31.8611V412C539.25 416.004 536.004 419.25 532 419.25H8C3.99594 419.25 0.75 416.004 0.75 412V31.8611H539.25Z" fill="white" stroke="#3C64B1" stroke-width="1.5"/>
+<path opacity="0.1" d="M0 32H540V412C540 416.418 536.418 420 532 420H7.99999C3.58171 420 0 416.418 0 412V32Z" fill="#3C64B1"/>
+<path d="M8 0.75H532C536.004 0.75 539.25 3.99594 539.25 8V39.25H0.75V8C0.75 3.99594 3.99594 0.75 8 0.75Z" fill="white" stroke="#3C64B1" stroke-width="1.5"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M53 25C55.7614 25 58 22.7614 58 20C58 17.2386 55.7614 15 53 15C50.2386 15 48 17.2386 48 20C48 22.7614 50.2386 25 53 25Z" fill="white" stroke="#3C64B1" stroke-width="1.5"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M35 25C37.7614 25 40 22.7614 40 20C40 17.2386 37.7614 15 35 15C32.2386 15 30 17.2386 30 20C30 22.7614 32.2386 25 35 25Z" fill="white" stroke="#3C64B1" stroke-width="1.5"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M17 25C19.7614 25 22 22.7614 22 20C22 17.2386 19.7614 15 17 15C14.2386 15 12 17.2386 12 20C12 22.7614 14.2386 25 17 25Z" fill="white" stroke="#3C64B1" stroke-width="1.5"/>
+</svg>
